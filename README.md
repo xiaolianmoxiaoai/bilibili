@@ -1,0 +1,1 @@
+利用requests获取弹幕存放地址网页源码，BeautifulSoup+Pandas获取弹幕并保存至bilibili.csv文件，利用WordCloud+jieba+matplotlib绘制云词图
